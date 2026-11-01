@@ -2,7 +2,7 @@
 
 Rocky's official website for links, socials, and contact info.
 
-Live site caan be found [here](https://rocksishungry.com/)
+Live site can be found [here](https://rocksishungry.com/)
 
 ## About
 
